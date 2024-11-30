@@ -17,7 +17,7 @@ OverView
 - used css framework tailwind to make responsive for different screen sizes 
 
 - install the following commands before running the application
-    npm i react-router-dom /n
+    npm i react-router-dom
     npm install -D tailwindcss postcss autoprefixer
     npx tailwindcss init -p
 

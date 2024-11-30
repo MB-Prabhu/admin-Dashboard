@@ -1,0 +1,40 @@
+[{
+    "userName": "arun",
+    "userRole": "delivery",
+    "userPermission": "provide"
+}, 
+{
+    "userName": "varun",
+    "userRole": "delivery",
+    "userPermission": "provide"
+},
+{
+    "userName": "arun",
+    "userRole": "Manager",
+    "userPermission": "invigilate"
+},
+{
+    "userName": "arun",
+    "userRole": "Asst.Manager",
+    "userPermission": "invigilate"
+},
+{
+    "userName": "arun",
+    "userRole": "salesman",
+    "userPermission": "sales"
+},
+{
+    "userName": "arun",
+    "userRole": "customercare",
+    "userPermission": "support"
+},
+{
+    "userName": "arun",
+    "userRole": "salesman",
+    "userPermission": "sales"
+},
+{
+    "userName": "arun",
+    "userRole": "Manager",
+    "userPermission": "invigilate"
+}]
